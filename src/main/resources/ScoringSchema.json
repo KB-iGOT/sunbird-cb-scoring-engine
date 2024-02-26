@@ -2054,7 +2054,7 @@
             },
             {
               "qualifier": "Learner_Engagement_003",
-              "description": "The reading content (e.g. PDFs, slides) is designed for on-the-go consumption, and contains visual summaries, infographics and other simila.",
+              "description": "The reading content (e.g. PDF, slides) is designed for on-the-go consumption and contains visual summaries, infographics, and other similar techniques.",
               "weightage": 0.09,
               "max_score": 5,
               "min_acceptable_score": 2.5,
